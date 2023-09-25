@@ -1,0 +1,26 @@
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+
+  padding-block: 48px;
+
+  color: #fff;
+}
+
+.logo {
+  font-weight: 700;
+  font-size: 1.8rem;
+}
+
+.menuIcon {
+  font-size: 1.8rem;
+  cursor: pointer;
+
+  width: 30px;
+  height: 30px;
+}
